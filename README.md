@@ -1,4 +1,4 @@
-# practice-R
+# R
 
 > `빅데이터 R 분석` 수업에 활용된 저장소 입니다. 주 교재인 [빅 데이터 분석을 위한 R 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243077630)에 사용된 코드와 제공된 데이터를 활용하였습니다. 해당 데이터에 대한 저작권 및 기타 권한은 [도서출판 가메](https://www.kame.co.kr/)에 있습니다.
 
